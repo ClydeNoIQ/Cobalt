@@ -1,9 +1,9 @@
-# Zuri Pocketmine-MP Anticheat 🛡️
-**Zuri** is an anticheat made to protect the server from any may unfair advantages from the players. A powerful anticheat made to destroy hackers from your server for PocketMine-MP.
+# Cobalt 🛡️
+**Cobalt** is a fork of the **Zuri** anticheat, a robust anticheat designed to safeguard your server by eliminating any unfair advantages players may attempt to exploit. Built specifically for PocketMine-MP, it provides powerful tools to detect and stop hackers, ensuring a fair and enjoyable experience for everyone.
 
-**Zuri** attempts to enforce "vanilla Minecraft" mechanics, as well as preventing players from abusing weaknesses in Minecraft or its protocol, making your server more safe. Organized in different sections, various checks are performed to test players doing, covering a wide range including flying and speeding, fighting hacks, fast block breaking and nukers, inventory hacks, chat spam and other types of malicious behaviour.
+Zuri is designed to enforce "vanilla Minecraft" mechanics while preventing players from exploiting weaknesses in Minecraft or its protocol, enhancing your server's security. With its organized structure, Zuri performs a variety of checks to monitor player activities, covering areas such as flying, speed hacks, combat hacks, fast block breaking, nukers, inventory manipulation, chat spam, and other forms of malicious behavior.
 
-> ⚠️ **Spoon or Fork of Pocketmine-MP are not supported.** Do not try to create an issue, they will be closed automatically.
+> ⚠️ **Spoon or Forks of Pocketmine-MP are not supported.** Do not try to create an issue, they will be closed automatically.
 
 😁 If you are interested with our projects, you may help us by:
 - [Donate via Ko-Fi](https://ko-fi.com/xqwtxon)
@@ -11,7 +11,7 @@
 
 Also, adding :star: a **Star** is also appreciated. ✨
 
-🤔 Do you struggling with **bugs and issues?** Don't hesitate to tell us about it by [creating an issue](https://github.com/ReinfyTeam/Zuri-Rewrite/issues) or you may join us on our official [discord server](https://discord.com/invite/7u7qKsvSxg)!
+🤔 Do you struggling with **bugs and issues?** Don't hesitate to tell us about it by [creating an issue](https://github.com/ClydeNoIQ/Cobalt/issues)
 
 > ☢ For Plugin Developers:
 > The full documentation about API and it's usage is can be found in the [github wiki](https://github.com/ReinfyTeam/Zuri/wiki).
@@ -150,6 +150,6 @@ Also, adding :star: a **Star** is also appreciated. ✨
      - **A:** Limit players same ip to prevent malicious bots.
 
 # Feedbacks and Issue's
-- 😁 Your feedback and reviews are highly appriciated, if you ever find a bug or false-positive in certain modules, you can create an issue in our [github repository](https://github.com/ReinfyTeam/Zuri/issues)!
+- 😁 Your feedback and reviews are highly appriciated, if you ever find a bug or false-positive in certain modules, you can create an issue in our [github repository](https://github.com/ClydeNoIQ/Cobalt/issues)!
 - 👍 You can also view [Frequently asked questions article](https://github.com/ReinfyTeam/Zuri/wiki/Well-Known-Issues) about common encountered issues to our plugin, be sure to read that before creating an issue!
 > Please wait for the developer response to the issue since we have high amount of task and issue that we to do fix also ;)
